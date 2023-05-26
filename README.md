@@ -1,11 +1,11 @@
 # European-Soccer_Analysis
 
-<img src="" width="500" height="520" alt="image">
+<img src="Soccer_logo.png" width="500" height="520" alt="image">
 
 ## 📚 Table of Contents
 - [Introduction](#Introduction)
 - [Dataset]
-- [SQL - Queries](#SQL - Questions)
+- [SQL - Queries](https://github.com/Agnieszka-Bielecka/European-Soccer_Analysis/edit/master/README.md#sql---questions)
 - [Visualization](#Visualization)
 
 ***
