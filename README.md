@@ -3,7 +3,7 @@
 <img src="" width="500" height="520" alt="image">
 
 ## 📚 Table of Contents
-- [Introduction](https://github.com/Agnieszka-Bielecka/European-Soccer_Analysis/edit/master/README.md#introduction)
+- [Introduction](#Introduction)
 - [Dataset]
 - [Queries](#Queries)
 - [Visualization](#Visualization)
