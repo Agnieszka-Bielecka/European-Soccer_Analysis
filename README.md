@@ -5,7 +5,7 @@
 ## 📚 Table of Contents
 - [Introduction](#Introduction)
 - [Dataset](https://www.kaggle.com/datasets/hugomathien/soccer)
-- [SQL - Queries](https://github.com/Agnieszka-Bielecka/European-Soccer_Analysis/edit/master/README.md#sql---questions)
+- [SQL - Queries](#SQL-Questions)
 
 
 ***
@@ -28,7 +28,7 @@ The analysis below is realized with an open database from Kaggle.
 
 This short analysis is based on asked questions and answers by SQL queries.
 
-## SQL - Questions
+## SQL-Questions
 [Go to Queries](https://github.com/Agnieszka-Bielecka/European-Soccer_Analysis/blob/master/SQL-queries.sql)
 
 1. Which leagues, from which countries are included in the database?
