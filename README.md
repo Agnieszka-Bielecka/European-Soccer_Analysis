@@ -4,9 +4,9 @@
 
 ## 📚 Table of Contents
 - [Introduction](#Introduction)
-- [Dataset]
+- [Dataset](https://www.kaggle.com/datasets/hugomathien/soccer)
 - [SQL - Queries](https://github.com/Agnieszka-Bielecka/European-Soccer_Analysis/edit/master/README.md#sql---questions)
-- [Visualization](#Visualization)
+
 
 ***
 
@@ -26,10 +26,10 @@ Understanding information from large datasets can bring us some new valuable kno
 
 The analysis below is realized with an open database from Kaggle.
 
-This short analysis is based on asked questions and answers by SQL queries, completed by visualization in Tableau.
+This short analysis is based on asked questions and answers by SQL queries.
 
 ## SQL - Questions
-[Go to Queries]()
+[Go to Queries](https://github.com/Agnieszka-Bielecka/European-Soccer_Analysis/blob/master/SQL-queries.sql)
 
 1. Which leagues, from which countries are included in the database?
 2. How many goals are scored in each league and season?
@@ -41,5 +41,5 @@ This short analysis is based on asked questions and answers by SQL queries, comp
 8. What is the average overall rating of the players?
 9. Which players have the greatest potential in the 2015/2016 season?
 10. Which players have the best overall rating?
-
-## Visualization
+11. If player's height has an impact on their overall rating or potential?
+12. What skills are better taller players in? And what skills are better shorter players in?
